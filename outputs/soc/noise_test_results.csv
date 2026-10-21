@@ -1,0 +1,7 @@
+Scenario,MAE %,Max error %
+No noise (lab sensors),0.77,5.55
+Low noise (good BMS),0.8,5.69
+Medium noise (typical BMS),0.85,5.88
+High noise (cheap sensors),0.98,7.68
+Voltage bias +10 mV,1.51,7.24
+Voltage bias -10 mV,1.04,5.74
